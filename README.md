@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/mbpressf/mbpressf/8ea1d7a81d252937a7083100bcde53126b91a64c/fon_git_hub.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+coding+in+Python.)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
 ## Hi, I'm Miroslav, Python programmer.✌
 
 - 🔭 I like programming. I chose python because I like to write logic. 
