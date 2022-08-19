@@ -9,8 +9,8 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-545352?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-545352?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+[![Python](https://img.shields.io/badge/-Python-545352?style=for-the-badge&logo=python)](https://t.me/fomixb_v)
+[![C++](https://img.shields.io/badge/-C++-545352?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://t.me/fomixb_v)
 
 ### Contact Me.
 
