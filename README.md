@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to drive. I want to work in the Silicon Valley or Microsoft.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbpressf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![codewars](https://www.codewars.com/users/_M_B_PRESS_F_/badges/large)
+<!--![codewars](https://www.codewars.com/users/_M_B_PRESS_F_/badges/large) -->
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
