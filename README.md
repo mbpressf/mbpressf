@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+coding+in+Python.)
+<!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+coding+in+Python.)-->
 ## Hi, I'm Miroslav, Python/C++ programmer.✌
 
 - 🔭 I like programming. I chose python because I like to write backend, logic. 
