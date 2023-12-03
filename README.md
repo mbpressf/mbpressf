@@ -25,4 +25,4 @@
 ### Contact Me.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
-[![Kwork](https://img.shields.io/badge/-Kwork-545352?style=for-the-badge&logo=)](https://kwork.ru/script-programming/22199519/napishu-bota-dlya-telegram)
+[![Kwork](https://img.shields.io/badge/-Kwork-545352?style=for-the-badge&logo=)](https://kwork.ru/user/famxb_v)
