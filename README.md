@@ -7,7 +7,7 @@
 
 - 🔭 I like programming. I chose python because I like to write backend, logic. 
 - 🤔 I seek help from all sources, most often Stack Overflow, or I ask people I know.
-- 📫 How to reach me? - Write to the mail: miroslavbabk@gmail.com or Telegram: @fomixb_v 
+- 📫 How to reach me? - Write to the mail: miroslavbabk@gmail.com or Telegram: [@fomixb_v](https://t.me/fomixb_v)
 - ⚡ Fun fact: I love to drive. I want to work in the Silicon Valley or Microsoft.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbpressf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,7 +15,7 @@
 <!-- ![codewars](https://www.codewars.com/users/_M_B_PRESS_F_/badges/large)-->
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)-->
 
 
 ### Languages
