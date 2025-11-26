@@ -15,7 +15,7 @@
 - 💻 Пишу на **Python (AI, скрипты, боты, компьютерное зрение)** и **C++ (Arduino, датчики, симуляторы)**
 - 🔧 Стек: OpenCV, PIL, Selenium, VK/TG Bots, Vue
 - 🏆 Участвую в хакатонах и командных проектах
-- 🛠️ Открыт к заказам на фрилансе — Bots, интеграции, автоматизация
+- 🛠️ Открыт к заказам на фрилансе — Bots, интеграции, автоматизация, веб-приложение 
 
 ---
 
@@ -57,5 +57,4 @@
 - Пакет телеграм-ботов, VK-ботов, Computer Vision: см. репозитории
 - IoT: Arduino, датчики, автоматизация задач
 
-</details>[Telegram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
-[![Kwork](https://img.shields.io/badge/-Kwork-545352?style=for-the-badge&logo=)](https://kwork.ru/user/famxb_v)
+</details>
