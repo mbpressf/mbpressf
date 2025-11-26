@@ -1,38 +1,60 @@
-![](https://github.com/mbpressf/mbpressf/blob/1f18056e2a0d0a75be369549894016ddf9d47d30/generated-image%20(4)%20(1).png)
+<p align="center">
+  <img src="[СЮДА_ССЫЛКА_НА_БАННЕР](https://github.com/mbpressf/mbpressf/blob/1f18056e2a0d0a75be369549894016ddf9d47d30/generated-image%20(4)%20(1).png)"/>
+</p>
+<h1 align="center">Привет, я Miroslav 👋</h1>
+<p align="center">
+  Python & C++ Developer • Chat-Bots • Computer Vision • Automation <br>
+  <a href="https://t.me/fomixb_v"><img src="https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram"></a>
+  <a href="mailto:miroslavbabk@gmail.com"><img src="https://img.shields.io/badge/-gmail-545352?style=for-the-badge&logo=gmail"></a>
+  <a href="https://kwork.ru/user/famxb_v"><img src="https://img.shields.io/badge/-Kwork-545352?style=for-the-badge"></a>
+</p>
 
+---
 
-<!--![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+coding+in+Python.)-->
-## Hi, I'm [Miroslav](https://t.me/fomixb_v), Python programmer.✌
-<br/>
+### 🚀 Обо мне
+- 💻 Пишу на **Python (AI, скрипты, боты, компьютерное зрение)** и **C++ (Arduino, датчики, симуляторы)**
+- 🔧 Стек: OpenCV, PIL, Selenium, VK/TG Bots, Vue
+- 🏆 Участвую в хакатонах и командных проектах
+- 🛠️ Открыт к заказам на фрилансе — Bots, интеграции, автоматизация
 
+---
 
-I'm studying to be a programmer, I'm into different stacks: __<br/>  <ul> <li>Python <br/> <li> Arduino - C++ <br/> <li> OpenCv, PIL, selenium, vk and tg bots...<br/> <li> AI and more<br/></ul>__ I try to participate in various large projects. 
-In my opinion, these are important factors in maintaining my experience. I also work on freelancing, I take orders on bot development, automation and scripting, you can see some of my works in repositories, as well as read about them.
+### 💡 Навыки
 
-__I believe that development is the most important thing.__
+![Python](https://img.shields.io/badge/-Python-545352?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-545352?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Vue](https://img.shields.io/badge/-Vue-545352?style=for-the-badge&logo=vue.js)
+![Arduino](https://img.shields.io/badge/-Arduino-545352?style=for-the-badge&logo=arduino)
+![OpenCV](https://img.shields.io/badge/-OpenCV-545352?style=for-the-badge&logo=opencv)
+![HTML](https://img.shields.io/badge/-HTML5-545352?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-545352?style=for-the-badge&logo=css3)
 
- 📫 How to reach me? - Write to the mail: miroslavbabk@gmail.com or Telegram: [@fomixb_v](https://t.me/fomixb_v)
- <br>
- ⚡ Fun fact: I want to work in the Silicon Valley or Microsoft.😃
+---
 
-<br/>
+### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbpressf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbpressf&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbpressf&layout=compact" />
+</p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbpressf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+---
 
-<!-- ![codewars](https://www.codewars.com/users/_M_B_PRESS_F_/badges/large)-->
+### 📬 Связаться со мной
+- **Почта:** miroslavbabk@gmail.com
+- **Telegram:** [@fomixb_v](https://t.me/fomixb_v)
+- **Kwork:** [Профиль](https://kwork.ru/user/famxb_v)
 
+---
 
-<!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)-->
+<details>
+<summary>🌱 Мои проекты и опыт</summary>
 
+- Agro_case_BugBusters_prod — [Vue]
+- BugBusters_centerin_case — [Python]
+- Timetrack_hakaton — [PHP]
+- Пакет телеграм-ботов, VK-ботов, Computer Vision: см. репозитории
+- IoT: Arduino, датчики, автоматизация задач
 
-### Languages
-
-[![Python](https://img.shields.io/badge/-Python🐍-545352?style=for-the-badge&logo=python)](https://xkcd.com/353/)
-[![C++](https://img.shields.io/badge/-C++-545352?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://pin.it/2ZPrOUy) 
-<!-- ![](https://komarev.com/ghpvc/?username=mbpressf) -->
-### Contact Me.
-
-[![Telegram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
+</details>legram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
 [![Kwork](https://img.shields.io/badge/-Kwork-545352?style=for-the-badge&logo=)](https://kwork.ru/user/famxb_v)
