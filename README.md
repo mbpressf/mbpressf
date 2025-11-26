@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[СЮДА_ССЫЛКА_НА_БАННЕР](https://github.com/mbpressf/mbpressf/blob/1f18056e2a0d0a75be369549894016ddf9d47d30/generated-image%20(4)%20(1).png)"/>
+  <img src="https://github.com/mbpressf/mbpressf/blob/1f18056e2a0d0a75be369549894016ddf9d47d30/generated-image%20(4)%20(1).png"/>
 </p>
 <h1 align="center">Привет, я Miroslav 👋</h1>
 <p align="center">
@@ -44,6 +44,7 @@
 - **Почта:** miroslavbabk@gmail.com
 - **Telegram:** [@fomixb_v](https://t.me/fomixb_v)
 - **Kwork:** [Профиль](https://kwork.ru/user/famxb_v)
+- **Fiverr:** [Профиль](https://www.fiverr.com/s/38jomaA)
 
 ---
 
@@ -56,5 +57,5 @@
 - Пакет телеграм-ботов, VK-ботов, Computer Vision: см. репозитории
 - IoT: Arduino, датчики, автоматизация задач
 
-</details>legram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
+</details>[Telegram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
 [![Kwork](https://img.shields.io/badge/-Kwork-545352?style=for-the-badge&logo=)](https://kwork.ru/user/famxb_v)
